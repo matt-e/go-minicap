@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	adb "github.com/zach-klippenstein/goadb"
+	adb "github.com/matt-e/go-adb"
 )
 
 type AdbDevice struct {
